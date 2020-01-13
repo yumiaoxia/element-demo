@@ -31,7 +31,6 @@
 
 <script>
 import TitleHeader from "./components/TitleHeader.vue";
-import router from "./router";
 
 export default {
   name: "app",
@@ -65,8 +64,7 @@ export default {
   },
   components: {
     TitleHeader
-  },
-  router
+  }
 };
 </script>
 
