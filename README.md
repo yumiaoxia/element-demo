@@ -1,24 +1,10 @@
 # elememt-demo
 
-## Project setup
-```
-npm install
-```
+vue-ElementUI 的简单实例
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+技术要点：
+ - ElementUI 的一些组件使用
+ - 容器布局
+ - 路由、嵌套路由
+ - 编程式导航
+ - 异步显示
